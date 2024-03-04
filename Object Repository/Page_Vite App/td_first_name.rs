@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_first_name</name>
+   <tag></tag>
+   <elementGuidId>358ded3b-5c9d-42a2-9ebc-7d07eb00865d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[3]/div/div/div/table/tbody/tr/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.whitespace-nowrap.px-3.py-4.text-sm.text-gray-500</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>e543dd66-9f0b-4872-ab84-ae5dad10fb2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>whitespace-nowrap px-3 py-4 text-sm text-gray-500</value>
+      <webElementGuid>b2e8480b-c010-4251-b202-456881368c74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Aunging</value>
+      <webElementGuid>3cbeaef3-a9c8-4f3f-bbfc-d32e4f3ab37b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;px-4 sm:px-6 lg:px-8&quot;]/div[@class=&quot;mt-8 flow-root&quot;]/div[@class=&quot;-my-2 -mx-4 overflow-x-auto sm:-mx-6 lg:-mx-8&quot;]/div[@class=&quot;inline-block min-w-full py-2 align-middle sm:px-6 lg:px-8&quot;]/table[@class=&quot;min-w-full divide-y divide-gray-300&quot;]/tbody[@class=&quot;bg-white&quot;]/tr[1]/td[@class=&quot;whitespace-nowrap px-3 py-4 text-sm text-gray-500&quot;]</value>
+      <webElementGuid>4ed9a9f6-ce0b-47ff-b053-71edc414cbf4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[3]/div/div/div/table/tbody/tr/td[2]</value>
+      <webElementGuid>c9242521-5192-4619-bff6-02dfe45f867a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GPA'])[1]/following::td[2]</value>
+      <webElementGuid>772e86ce-43c6-40c3-b205-d19a7029fda3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Surname'])[1]/following::td[2]</value>
+      <webElementGuid>9ba019ec-0b22-4592-b5ee-327a87d06c31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chinner'])[1]/preceding::td[1]</value>
+      <webElementGuid>11398a1b-65a6-434f-bae5-30a3494132e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total GPA'])[1]/preceding::td[4]</value>
+      <webElementGuid>c00b1bb7-fd5d-4e51-8413-e9ee4a45c221</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Aunging']/parent::*</value>
+      <webElementGuid>821e6962-a67d-48c0-abff-6cd07c6c5133</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]</value>
+      <webElementGuid>4a4523f3-3e6a-4842-b33b-146c6e9825b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Aunging' or . = 'Aunging')]</value>
+      <webElementGuid>50f4a3af-a4b2-4752-a175-0542db4c58c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

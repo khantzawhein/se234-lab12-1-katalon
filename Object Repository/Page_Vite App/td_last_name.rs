@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_last_name</name>
+   <tag></tag>
+   <elementGuidId>51cfe707-32c2-4530-a886-4fb0e30683eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[3]/div/div/div/table/tbody/tr/td[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>98614008-1320-419b-9d81-8dde942ee714</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>whitespace-nowrap px-3 py-4 text-sm text-gray-500</value>
+      <webElementGuid>127df01c-3693-44eb-8171-d9e26c0555ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Chinner</value>
+      <webElementGuid>8625da38-d553-4c59-b977-747bf8cdccd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;px-4 sm:px-6 lg:px-8&quot;]/div[@class=&quot;mt-8 flow-root&quot;]/div[@class=&quot;-my-2 -mx-4 overflow-x-auto sm:-mx-6 lg:-mx-8&quot;]/div[@class=&quot;inline-block min-w-full py-2 align-middle sm:px-6 lg:px-8&quot;]/table[@class=&quot;min-w-full divide-y divide-gray-300&quot;]/tbody[@class=&quot;bg-white&quot;]/tr[1]/td[@class=&quot;whitespace-nowrap px-3 py-4 text-sm text-gray-500&quot;]</value>
+      <webElementGuid>59f6d5c6-9b17-4e69-ba00-7bbb168104b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[3]/div/div/div/table/tbody/tr/td[3]</value>
+      <webElementGuid>85051981-dbab-47b6-89d1-90b03544b5f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aunging'])[1]/following::td[1]</value>
+      <webElementGuid>c97ab643-ec8a-4f96-9b1a-b3544b72ffa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GPA'])[1]/following::td[3]</value>
+      <webElementGuid>2498ceb0-0af1-42b0-8c4f-52f712d2f119</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total GPA'])[1]/preceding::td[3]</value>
+      <webElementGuid>946c0acc-1b24-4b8c-b1b2-5a85ca702372</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Chinner']/parent::*</value>
+      <webElementGuid>6ba2ee04-e8f9-43ab-be5f-5e5da24360d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]</value>
+      <webElementGuid>41c61851-0da1-4633-81c9-9d124e69ca0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Chinner' or . = 'Chinner')]</value>
+      <webElementGuid>fb4cddbf-ed9d-42ec-b759-acac1bce61d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

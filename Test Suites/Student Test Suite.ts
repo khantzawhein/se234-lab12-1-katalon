@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Student Test Suite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>35a92503-7742-412b-8255-4f4687b7d2a3</testSuiteGuid>
+   <testCaseLink>
+      <guid>d6f703be-8cfa-4240-bf8a-e76bb792ac39</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>''</defaultValue>
+         <description></description>
+         <id>848883de-8b6a-4263-af84-74c83a7da772</id>
+         <masked>false</masked>
+         <name>studentId</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/Test Student Search</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>d2e16909-537f-4017-9c97-ecc7559003cd</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Student Data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>d2e16909-537f-4017-9c97-ecc7559003cd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>StudentId</value>
+         <variableId>848883de-8b6a-4263-af84-74c83a7da772</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d2e16909-537f-4017-9c97-ecc7559003cd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Name</value>
+         <variableId>afcbf4fe-49ba-4b0c-9443-faf2c25e5f1f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d2e16909-537f-4017-9c97-ecc7559003cd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Surname</value>
+         <variableId>51ed297e-c6b5-46fb-a255-6289198149f0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d2e16909-537f-4017-9c97-ecc7559003cd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>GPA</value>
+         <variableId>2857faca-2d07-472a-ba81-e113dbb39121</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d2e16909-537f-4017-9c97-ecc7559003cd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>GPA</value>
+         <variableId>4436f20a-9e00-40c2-bf19-862ac3dc51e6</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

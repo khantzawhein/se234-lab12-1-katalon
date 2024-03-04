@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Test Suite 1</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>3eca1925-21dd-4825-ad2f-41c33fe74026</testSuiteGuid>
+   <testCaseLink>
+      <guid>bd4aa61a-7fba-42a8-b8be-565633b4149d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>''</defaultValue>
+         <description></description>
+         <id>2857faca-2d07-472a-ba81-e113dbb39121</id>
+         <masked>false</masked>
+         <name>gpa</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/Test Student Search</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>ddc4b0ee-273b-4017-8f0d-c521915c2882</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data for TC1</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>ddc4b0ee-273b-4017-8f0d-c521915c2882</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>studentId</value>
+         <variableId>848883de-8b6a-4263-af84-74c83a7da772</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ddc4b0ee-273b-4017-8f0d-c521915c2882</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>name</value>
+         <variableId>afcbf4fe-49ba-4b0c-9443-faf2c25e5f1f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ddc4b0ee-273b-4017-8f0d-c521915c2882</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>surname</value>
+         <variableId>51ed297e-c6b5-46fb-a255-6289198149f0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ddc4b0ee-273b-4017-8f0d-c521915c2882</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>gpa</value>
+         <variableId>2857faca-2d07-472a-ba81-e113dbb39121</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ddc4b0ee-273b-4017-8f0d-c521915c2882</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>totalGpa</value>
+         <variableId>4436f20a-9e00-40c2-bf19-862ac3dc51e6</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
